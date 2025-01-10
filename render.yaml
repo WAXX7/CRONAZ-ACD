@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: Ghost-MD 
+    name: Dark-Love-MD-session 
     env: docker
     region: Frankfurt
     plan: free
