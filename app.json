@@ -1,8 +1,8 @@
 {
-    "name": "VENOCYBER MD session",
-    "description": "VENOCYBER-MD WA bot, Created by Venocyber King jux to simplify your digital lives",
-    "logo": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg",
-    "repository": "https://github.com/kingjux/Venocyber-Md-Session",
+    "name": "Dark-Love-MD session",
+    "description": "Dark-Love-MD Is A Simple Bot Created By AY TECH",
+    "logo": "https://telegra.ph/file/7d7112d331a345d558149.jpg",
+    "repository": "https://github.com/kingjux/Dark-Love-MD-session",
     "keywords": ["VenocyberMd"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
