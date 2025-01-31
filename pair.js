@@ -56,20 +56,20 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Venocyber_Tech.sendMessage(Pair_Code_By_Venocyber_Tech.user.id, { text: '' + b64data });
 
                let VENOCYBER_MD_TEXT = `
-*_Pair Code Connected by Dark-Love-MD Tech_*
+*_Pair Code Connected by ACD MD_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU CHOOSEN Dark-Love-MD 』*
+║ *『 WOW YOU CHOOSEN ACD MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚══════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Owner:* _https://wa.me/2349071214451_
-║❒ *Repo:* _https://github.com/ayodejibot/Dark-Love-MD_
-║❒ *WaGroup:* _https://chat.whatsapp.com/HSln3blDuuuKvC8njxyCCN_
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaiBr1WDzgTAYG2f6V37_
-║❒ *Plugins:* _https://github.com/ayodejibot/Dark-Love-MD-plugins_
+║❒ *Owner:* _https://wa.me/918138898058_
+║❒ *Repo:* _https://github.com/ACD-MD-TEAM/ACD-MD-BOT-V1_
+║❒ *WaGroup:* _https://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VawxBmHFnSzBLlIQ3y1e_
+║❒ *Plugins:* _https://github.com_
 ╚══════════════════════╝ 
 _____________________________________
 
